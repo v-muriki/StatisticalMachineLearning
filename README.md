@@ -1,2 +1,2 @@
-# StatisticalMachineLearning
-Satistical Machine Learning Methods
+# Statistical Machine Learning
+In this project, we analyzed the 2016 presidential election data versus census data to better understand the voting inclinations of certain populations. Using R visualization techiques, we executed principal component analysis at the county level. Then we used a hierarchical clustering algorithm to encapsulate San Mateo county. Then contrasted  decision trees versus logistic regression as classification methods in predicting candidate results from  misclassification error rates, eventually constructing ROC curves to determine a strong classifier from True Positive Rate maximization. 
